@@ -1,5 +1,5 @@
 def base_hash
-  monopoly = {:myKey: "value"}
+  {:myKey: "value"}
 
 end
 
