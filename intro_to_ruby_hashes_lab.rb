@@ -1,5 +1,5 @@
 def base_hash
-  {:myKey: "value"}
+  {myKey: "value"}
 
 end
 
