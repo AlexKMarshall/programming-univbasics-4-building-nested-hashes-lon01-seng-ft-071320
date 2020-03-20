@@ -1,5 +1,5 @@
 def base_hash
-  {myKey: "value"}
+  {raliroads: {}}
 
 end
 
